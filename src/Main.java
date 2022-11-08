@@ -44,7 +44,7 @@ public class Main {
 
         ///Task 1.3 (+2)
 
-        double[] thirdTaskArr = {1.11, 2.222 ,3.33 , 4.55, 5.55};
+        double[] thirdTaskArr = {1.11, 2.223 ,3.33 , 4.55, 5.55};
 
         for (int i = 0; i < thirdTaskArr.length; i++) {
 
